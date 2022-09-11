@@ -1,0 +1,95 @@
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.Properties.Resources.resources
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.GenerateResource.cache
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.CoreCompileInputs.cache
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\bin\Debug\LibreryProject.exe.config
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\bin\Debug\LibreryProject.exe
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\bin\Debug\LibreryProject.pdb
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csprojAssemblyReference.cache
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmClientTable.resources
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.exe
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.pdb
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmEmployeTable.resources
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmBooksTable.resources
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmAuthorTable.resources
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmKindTable.resources
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\bin\Debug\LibreryProject.exe.config
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\bin\Debug\LibreryProject.exe
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\bin\Debug\LibreryProject.pdb
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.AssemblyReference.cache
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmAuthorTable.resources
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmBooksTable.resources
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmClientTable.resources
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmEmployeTable.resources
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmKindTable.resources
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.Properties.Resources.resources
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.GenerateResource.cache
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.CoreCompileInputs.cache
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.exe
+D:\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.pdb
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOneEmployee.resources
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOneClient.resources
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\bin\Debug\LibreryProject.exe.config
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\bin\Debug\LibreryProject.exe
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\bin\Debug\LibreryProject.pdb
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmAuthorTable.resources
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmBooksTable.resources
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmClientTable.resources
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmEmployeTable.resources
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmKindTable.resources
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOneBook.resources
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOneClient.resources
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOneEmployee.resources
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.Properties.Resources.resources
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.GenerateResource.cache
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.CoreCompileInputs.cache
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.exe
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.pdb
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOneBook.resources
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOpenLibrary.resources
+X:\הנדסאים שנה ב תשפב\פרויקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmNav.resources
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.AssemblyReference.cache
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmNav.resources
+E:\לימודים שנה ב\פרוייקטים יב\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOpenLibrary.resources
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\bin\Debug\LibreryProject.exe.config
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\bin\Debug\LibreryProject.exe
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\bin\Debug\LibreryProject.pdb
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmAuthorTable.resources
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmBooksTable.resources
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmClientTable.resources
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmEmployeTable.resources
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmKindTable.resources
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmNav.resources
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOneBook.resources
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOneClient.resources
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOneEmployee.resources
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOpenLibrary.resources
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.Properties.Resources.resources
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.exe
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.pdb
+C:\Users\user\Desktop\לימודים הנדסת תוכנה\לימודים שנה ב\פרוייקטים יב\שירה חדאד\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmPassword.resources
+D:\LibreryProject\LibreryProject\bin\Debug\LibreryProject.exe.config
+D:\LibreryProject\LibreryProject\bin\Debug\LibreryProject.exe
+D:\LibreryProject\LibreryProject\bin\Debug\LibreryProject.pdb
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.AssemblyReference.cache
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmAddBookBorrow.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmAuthorTable.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmBooksTable.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmBorrow.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmBrrowTable.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmClientTable.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmEmployeTable.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmKindTable.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmNav.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOneBook.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOneClient.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOneEmployee.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmOpenLibrary.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.GUI.frmPassword.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.Properties.Resources.resources
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.GenerateResource.cache
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.csproj.CoreCompileInputs.cache
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.exe
+D:\LibreryProject\LibreryProject\obj\Debug\LibreryProject.pdb
